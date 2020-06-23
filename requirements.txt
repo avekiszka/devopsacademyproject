@@ -1,0 +1,9 @@
+Flask
+Flask-Script
+flask-sqlalchemy
+flask-security
+email_validator
+requests
+mysqlclient
+python-dotenv
+pymysql 
